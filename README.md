@@ -1,6 +1,8 @@
 ### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Yasmin Pedrosa Da Silva
+
+
 Gosto de pinturas, artes renacentistas e Musicas clássicas.
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
